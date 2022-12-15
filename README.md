@@ -4,11 +4,11 @@ Biomedical Engineer
 
 
 <div id="header" align="center">
-### Hi there 👋
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+  
 
 - 🌱 I’m currently learning DataScience, Machine learning , Bioinformatics
 
