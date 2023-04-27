@@ -1,5 +1,5 @@
 # Toka
-Biomedical Engineer
+Data Scientist & Biomedical Engineer
 ### Welcome to my github 👋
 
 
