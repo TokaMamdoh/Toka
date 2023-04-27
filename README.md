@@ -10,7 +10,7 @@ Data Scientist & Biomedical Engineer
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
   
 
-- 🌱 I’m currently learning DataScience, Machine learning , Bioinformatics
+- 🌱 I’m currently Data Scientist, Machine learning Engineer , Biomedical Engineer
 
 
 <div id="badges">
